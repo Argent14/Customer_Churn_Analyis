@@ -92,8 +92,7 @@ The dataset is based on a modified version of the **Telco Customer Churn** datas
 
 I'm currently expanding my data skills through certifications like **DP-900 (Azure Data Fundamentals)** and **PL-900 (Power Platform Fundamentals)**.
 
-If you're a recruiter, hiring manager, or fellow data enthusiast — feel free to connect on [LinkedIn](https://linkedin.com/in/your-profile).
-
+If you're a recruiter, hiring manager, or fellow data enthusiast — feel free to connect on http://linkedin.com/in/abah-moses-8344751b8
 ---
 
 ## 📌 License
